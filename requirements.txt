@@ -1,0 +1,12 @@
+#langchain-qdrant
+#qdrant-client
+numpy
+chainlit==0.7.700
+openai
+PyPDF2
+qdrant-client==1.11.0
+langchain-openai==0.1.23
+langchain-qdrant==0.1.3
+langchain-huggingface==0.0.3
+langchain-community==0.2.16
+
